@@ -36,7 +36,6 @@ dependencies:
   cupertino_icons: ^1.0.8
   flutter_bloc: 
   equatable: 
-  get:
   permission_handler:
   agora_rtc_engine: ^6.5.2
   agora_uikit: ^1.2.5
